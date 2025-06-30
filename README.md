@@ -1,2 +1,2 @@
 # spatialCUT-Tag
-Phosphorylation of Pol II Serine Residues
+Profiling phosphorylation of serine residues in the RNA Polymerase II C-terminal domain. 
